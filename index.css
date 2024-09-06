@@ -31,11 +31,9 @@
 }
 
 .res-Card{
-  margin: 10px;
-  width: 200px;
-  height: 300px;
+  margin: 5px;
+  width: 190px;
   padding: 5px;
-  overflow: hidden;
 }
 
 .res-Card:hover {
