@@ -37,3 +37,7 @@ This my playground for Learning REACT library framework.
   -useState() - Superpowerful state variables
   -useEffect()
 
+  # Two Types of Routing in Web App
+  -Client side Routing
+  -Server side Routing
+
